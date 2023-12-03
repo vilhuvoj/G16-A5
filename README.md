@@ -12,15 +12,15 @@ Even though we learned the principles of an IFC format and how to extract and ad
 As the industry is evolving, aiming to cost reduction, sustainability and optimization, we expect to come in contact with OpenBIM formats, although probably not directly working with it with our current goals.
 
 ## Process of developing the tutorial
-As we don't expect to work with OpenBIM in our thesis, we do not think it helped us define and answer questions needed for our thesis.
-We were satisfied with the amount of freedom given to the students, although feedback on each assignment would be very much appreciated, as we were unsure whether we were aiming towards the correct goal of the course.
+As we don't expect to work with OpenBIM in our thesis, we do not think it helped us define and answer questions needed for our thesis.  
+We were satisfied with the amount of freedom given to the students, although feedback on each assignment would be very much appreciated, as we were unsure whether we were aiming towards the correct goal of the course.  
 We were also satisfied with the given tools to work with. But if it was possible to add more, it would definitely help.
 
 ## Received feedback
-The feedback addressed the use case we have identified both in the text and the IFC model opened in BlenderBIM. A few details about the use case scenario could have been added.
-The use case was well modeled, although access to a proper database was mentioned as a possible problem in actually making use of it. The GitHub was also mentioned to be set up well so that’s technically modelling.
+The feedback addressed the use case we have identified both in the text and the IFC model opened in BlenderBIM. A few details about the use case scenario could have been added.  
+The use case was well modeled, although access to a proper database was mentioned as a possible problem in actually making use of it. The GitHub was also mentioned to be set up well so that’s technically modelling.  
 The project was clearly scoped.
 
 ## Our future for Advanced use of OpenBIM
-We are unlikely to use OpenBIM tools in our thesis.
+We are unlikely to use OpenBIM tools in our thesis.  
 Over the next decade, it is probable that we will encounter the OpenBIM format in our professional journeys. This course has provided us with a comprehensive understanding of its functionality and potential applications. Consequently, we have established a solid foundation to leverage when needed in our future endeavors.
