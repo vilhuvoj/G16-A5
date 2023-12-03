@@ -22,5 +22,5 @@ The use case was well modeled, although access to a proper database was mentione
 The project was clearly scoped.
 
 ## Our future for Advanced use of OpenBIM
-We are unlikely to use OpenBIM tools in our thesis outside of maybe some very simple automatization which depends on what the exact thesis will be on. It is however most likely not going to be a focus in the near future.   
-Over the next decade, it is, however, probable that we will encounter the OpenBIM format in our professional journeys. This course has provided us with a comprehensive understanding of its functionality and potential applications. Consequently, we have established a solid foundation to leverage when needed in our future endeavors. 
+We are unlikely to use OpenBIM tools in our thesis outside of maybe some very simple automatization which depends on what the exact thesis will be on. It is, however, most likely not going to be a focus in the near future.   
+Over the next decade we will probably encounter the OpenBIM format in our professional journeys. This course has provided us with a comprehensive understanding of its functionality and potential applications. Consequently, we have established a solid foundation to leverage when needed in our future endeavors. 
